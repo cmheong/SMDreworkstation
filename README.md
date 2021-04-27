@@ -5,7 +5,10 @@ https://yaxun.en.alibaba.com/product/60669499710-212301957/YAXUN_YX850A_Hot_air_
 
 ![Ya Xun YX850A+](yaxun850A.jpg)
 
-1. Schematics in gEDA format
-2. 
+1. Schematics, page 1 in gEDA format
+ 
 ![Schematics Page 1](smdrework1.png)
+
+2. Schematics, page 2 in gEDA format
+
 ![Schematics Page 2](smdrework2.png)
